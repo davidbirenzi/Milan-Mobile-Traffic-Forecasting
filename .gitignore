@@ -1,0 +1,11 @@
+# Generated from raw TIM files (~390 MB); run notebooks/data_loading.ipynb
+data/processed/milan_internet_traffic.parquet
+
+# Raw Harvard Dataverse downloads (~19 GB)
+dataverse dataset/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
