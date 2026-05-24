@@ -3,7 +3,7 @@
 ML Techniques I formative assignment: memory-efficient loading of TIM Milan data, exploratory analysis, and one-step-ahead forecasts with **ARIMA(2,1,2)**, **LSTM**, and **GRU** on three grid cells.
 
 **Author:** David Birenzi
-GitHub repository: https://github.com/davidbirenzi/Mobile-Traffic-Forecasting-Milan
+GitHub repository: https://github.com/davidbirenzi/Milan-Mobile-Traffic-Forecasting.git
 Demo video: https://youtu.be/r4L3qQvOO9k
 
 ---
